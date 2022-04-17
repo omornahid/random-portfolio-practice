@@ -9,7 +9,7 @@ body{
 }
 .sec_one_a{
   width: 50%;
-  padding-left: 70px;
+  padding-left: 110px;
   padding-top: 50px;
 }
 .sec_one_a img{
@@ -97,11 +97,7 @@ button{
 
 .sec_three div img{
   width: 70%;
-  margin-left: 90px;
-}
-
-.sec_three_a{
-  margin-right: 80px;
+  margin-left: 100px;
 }
 
 .dev{
@@ -125,10 +121,9 @@ button{
 }
 
 .sec_four div{
-  margin-left: 100px;
+  margin-left: 190px;
 }
 .sec_four div img{
-  margin-right: 80px;
   width: 70%;
 }
 /* fourth section done */
@@ -145,7 +140,7 @@ button{
   font-size: 40px;
 }
 .typesOf_psd{
-  margin-left: 50px;
+  margin-left: 130px;
 }
 
 .typesOf_psd_a{
