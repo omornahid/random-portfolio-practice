@@ -92,6 +92,7 @@ button{
 .sec_three{
   display: flex;
   width: 90%;
+  margin-bottom: 80px;
 }
 
 .sec_three div img{
@@ -106,3 +107,18 @@ button{
   font-size: 90px;
   font-weight: bolder;
 }
+/* third section done */
+
+.sec_four{
+  display: flex;
+  width: 95%;
+}
+
+.sec_four div{
+  margin-left: 100px;
+}
+.sec_four div img{
+  margin-right: 80px;
+  width: 70%;
+}
+/* fourth section done */
