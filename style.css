@@ -34,7 +34,7 @@ button{
   padding: 10px 30px;
   background: #ff6b6b;
   border: none;
-  border-radius: 3px;
+  border-radius: 5px;
   font-weight: bold;
   font-family: 'Poppins', sans-serif;
   
@@ -59,6 +59,7 @@ button{
   display: flex;
   padding-left: 55px;
   padding-right: 55px;
+  margin-bottom: 100px;
 }
 
 .sec_two_img{
@@ -87,3 +88,21 @@ button{
   border-radius: 20px;
 }
 /* second section done */
+
+.sec_three{
+  display: flex;
+  width: 90%;
+}
+
+.sec_three div img{
+  width: 70%;
+  margin-left: 90px;
+}
+
+.sec_three_a{
+  margin-right: 80px;
+}
+.sec_three_a h1{
+  font-size: 90px;
+  font-weight: bolder;
+}
