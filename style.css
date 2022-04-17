@@ -127,6 +127,7 @@ button{
   display: flex;
   width: 90%;
   margin-top: 60px;
+  margin-bottom: 50px;
 }
 
 .psd{
@@ -160,3 +161,11 @@ button{
 }
 
 /* section five done */
+
+footer{
+  
+  text-align: center;
+  color: #6D214F;
+}
+
+/* footer done */
