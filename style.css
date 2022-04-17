@@ -1,0 +1,47 @@
+body{
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  
+}
+.sec_one{
+  display: flex;
+}
+.sec_one_a{
+  width: 50%;
+  padding-left: 70px;
+  padding-top: 50px;
+}
+.sec_one_a img{
+  width: 40%;
+  margin-right: 40px;
+}
+.border_h_tag h1{
+  font-size: 40px;
+  font-family: 'Yeseva One', cursive;
+  color: blueviolet;
+}
+.border_h_tag h2 span{
+  font-size: 37px;
+  font-family: 'Yeseva One', cursive;
+  color: orange;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+button{
+  padding: 10px 30px;
+  background: #ff6b6b;
+  border: none;
+  border-radius: 3px;
+  font-weight: bold;
+  font-family: 'Poppins', sans-serif;
+  
+}
+.border_h_tag{
+  border-left: 7px solid;
+  border-image: linear-gradient(orange, blueviolet);
+  border-image-slice: 1;
+}
+/* first section done */
+
