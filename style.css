@@ -112,6 +112,7 @@ button{
 .sec_four{
   display: flex;
   width: 95%;
+  margin-bottom: 100px;
 }
 
 .sec_four div{
@@ -122,3 +123,40 @@ button{
   width: 70%;
 }
 /* fourth section done */
+.sec_five{
+  display: flex;
+  width: 90%;
+  margin-top: 60px;
+}
+
+.psd{
+  text-align: center;
+  color: orange;
+}
+.typesOf_psd{
+  margin-left: 50px;
+}
+
+.typesOf_psd_a{
+  background-color: #dff9fb;
+  padding: 20px;
+  margin-bottom: 18px;
+  border-radius: 10px;
+}
+
+.typesOf_psd_b{
+  background-color: #b8e994;
+  padding: 20px;
+  border-radius: 10px;
+}
+.typesOf_psd_c{
+  margin-left: 25px;
+  border-radius: 10px;
+  background-color: #ced6e0;
+  padding: 20px;
+}
+.typesOf_psd_c p{
+  padding-top: 40px;
+}
+
+/* section five done */
