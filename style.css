@@ -168,9 +168,14 @@ button{
 /* section five done */
 
 footer{
-  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  background-color: #a29bfe;
   text-align: center;
   color: #6D214F;
+  font-size: 20px;
+  font-weight: bold;
 }
-
 /* footer done */
